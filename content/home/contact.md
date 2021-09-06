@@ -20,7 +20,7 @@ content:
   form:
     provider: netlify
     formspree:
-      id:
+      id: yingxuchen@hotmail.com
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
